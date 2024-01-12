@@ -1,3 +1,3 @@
 # TestRepo
 Testing my setup
-This line is from R studio, ferda
+This line is from R studio
